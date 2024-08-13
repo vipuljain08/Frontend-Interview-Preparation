@@ -8,4 +8,5 @@
 - [HTML](./HTML.md)
 - [CSS](./CSS.md)
 - [JavaScript](./JavaScript.md)
+- [React](./React.md)
 - [Redux](./Redux.md)
